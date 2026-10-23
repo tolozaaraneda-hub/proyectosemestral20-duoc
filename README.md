@@ -1,6 +1,6 @@
 Proyecto Semestral - Aplicación Android (DSY1105)
 
-Asignatura: Desarrollo de Aplicaciones Móviles (DSY1105)  
+Asignatura: Desarrollo de Aplicaciones Moviles (DSY1105)  
 Institución: Duoc UC  
 Integrantes: 
 - Esteban Alonso Toloza Araneda
@@ -37,8 +37,12 @@ Funcionalidades Principales
 
 ---
 
+Tablero De Trello:
+https://trello.com/b/NtE7jhFX/proyecto-semestral-dsy1105
+
+---
 Instalación y Ejecución
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tolozaaraneda-hub/proyectosemestral20-duoc.git](https://github.com/tolozaaraneda-hub/proyectosemestral20-duoc.git)
+   git clone https://github.com/tolozaaraneda-hub/proyectosemestral20-duoc.git
